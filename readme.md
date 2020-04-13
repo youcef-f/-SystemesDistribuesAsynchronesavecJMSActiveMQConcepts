@@ -91,6 +91,32 @@ Il n'est pas recommander de faire de la synchrone car il faut implémenter une b
 
 ![xxxxx](doc/images/introduction/javaProducer.jpg)
 
+![xxxxx](doc/images/introduction/ConnectionAndSession.jpg)
+
+![xxxxx](doc/images/introduction/messageConsumerProducer.jpg)
+
+ entete message
+![xxxxx](doc/images/introduction/messageSend.jpg)
+![xxxxx](doc/images/introduction/messageSend1.jpg)
+
+corp de message
+![xxxxx](doc/images/introduction/corpMessage.jpg)
+
+- Byte message
+![xxxxx](doc/images/introduction/corpsmessagebytemessage.jpg)
+
+- Text Message
+![xxxxx](doc/images/introduction/corpsmessagetext.jpg)
+
+- Object Message
+![xxxxx](doc/images/introduction/corpsmessageObjectmessage.jpg)
+
+- Map Message
+![xxxxx](doc/images/introduction/corpsmessageMapmessage.jpg)
+
+- Stream Message
+![xxxxx](doc/images/introduction/corpsmessageStreammessage.jpg)
+
 
 #### Consumer
 
@@ -173,7 +199,17 @@ http://localhost:8161/admin/queueGraph.jsp
 
 
 
---------------
+### Stream
+
+![xxxxx](doc/images/introduction/Streamimage2.jpg)
+
+![xxxxx](doc/images/introduction/Streamimage4.jpg)
 
 
-![xxxxx](doc/images/introduction/xxxxxxxxxxxxxx)
+
+
+### Mise en oeuvre 
+
+[Server jms activeMQ embedded](doc/ServerJavaEmbeded.md)
+[jms activeMQ Cliçent JSM](doc/miseEnOeuvreJmsClient.md)
+[activeMQ ](doc/ActiveMQ.md)
