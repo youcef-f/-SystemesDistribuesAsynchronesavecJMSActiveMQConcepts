@@ -210,6 +210,6 @@ http://localhost:8161/admin/queueGraph.jsp
 
 ### Mise en oeuvre 
 
-[Server jms activeMQ embedded](doc/ServerJavaEmbeded.md)
-[jms activeMQ Cliçent JSM](doc/miseEnOeuvreJmsClient.md)
-[activeMQ ](doc/ActiveMQ.md)
+[Server jms activeMQ embedded](doc/ServerJavaEmbeded.md)  
+[jms activeMQ Cliçent JSM](doc/miseEnOeuvreJmsClient.md)  
+[activeMQ ](doc/ActiveMQ.md)  
